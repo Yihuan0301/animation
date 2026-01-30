@@ -1,0 +1,5 @@
+{
+  "name": "AnimaPlayground",
+  "description": "An interactive playground for exploring advanced CSS and Framer Motion animations, including text effects, page transitions, and an AI-powered animation generator.",
+  "requestFramePermissions": []
+}
